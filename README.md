@@ -1,5 +1,9 @@
 "# BillsBurgers"  
 
+Adds new line in md when do more than one space at the end of the line. Otherwhise hard test. 
+  
+  
+
 The purpose of the application is to help a fictitious company called Bills Burgers to manage their process of selling hamburgers.
 Our application will help Bill to select types of burgers, some of the additional items (additions) to be added to the burgers and pricing.
 
